@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  LibCpp.cpp
+I:\DLL\MyLib\MyLib\LibCpp.cpp(6,6): warning C4273: 'addition': inconsistent dll linkage
+I:\DLL\MyLib\MyLib\DllHeader.h(9,33): message : see previous definition of 'addition'
+I:\DLL\MyLib\MyLib\LibCpp.cpp(11,6): warning C4273: 'substraction': inconsistent dll linkage
+I:\DLL\MyLib\MyLib\DllHeader.h(10,33): message : see previous definition of 'substraction'
+  Generating Code...
+     Creating library I:\DLL\MyLib\Debug\MyLib.lib and object I:\DLL\MyLib\Debug\MyLib.exp
+  MyLib.vcxproj -> I:\DLL\MyLib\Debug\MyLib.dll

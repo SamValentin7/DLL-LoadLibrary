@@ -1,0 +1,5 @@
+﻿  DLL_Implementation.cpp
+DLL_Implementation.obj : error LNK2019: unresolved external symbol __imp_addition referenced in function main
+DLL_Implementation.obj : error LNK2019: unresolved external symbol __imp_substraction referenced in function main
+MyLib.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Documents\GitHub\USARB-2022-2023-Sem1\3. Programarea orientata pe obiect\DLL\DLL_Implementation\x64\Debug\DLL_Implementation.exe : fatal error LNK1120: 2 unresolved externals
