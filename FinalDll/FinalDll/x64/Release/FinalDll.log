@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  Function.cpp
+     Creating library D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\FinalDll\x64\Release\FinalDll.lib and object D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\FinalDll\x64\Release\FinalDll.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FinalDll.vcxproj -> D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\FinalDll\x64\Release\FinalDll.dll

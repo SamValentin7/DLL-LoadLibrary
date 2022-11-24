@@ -1,0 +1,8 @@
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\bin\Debug\CppDLL.exe.config
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\bin\Debug\CppDLL.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\bin\Debug\CppDLL.pdb
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\obj\Debug\CppDLL.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\obj\Debug\CppDLL.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\obj\Debug\CppDLL.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\obj\Debug\CppDLL.exe
+D:\Documents\GitHub\Programarea-orientata-pe-obiect\DLL Project\CppDLL\CppDLL\obj\Debug\CppDLL.pdb
